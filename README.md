@@ -49,6 +49,15 @@ Includes:
 
 ---
 
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/sudesh-co/Customer-Analytics-and-Revenue-Forecasting-for-an-E-Commerce-Platform-EDA-Project/blob/main/Screenshot%202025-05-11%20154853.png))
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/sudesh-co/Customer-Analytics-and-Revenue-Forecasting-for-an-E-Commerce-Platform-EDA-Project/blob/main/Screenshot%202025-05-11%20154948.png))
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/sudesh-co/Customer-Analytics-and-Revenue-Forecasting-for-an-E-Commerce-Platform-EDA-Project/blob/main/Screenshot%202025-05-11%20155039.png))
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/sudesh-co/Customer-Analytics-and-Revenue-Forecasting-for-an-E-Commerce-Platform-EDA-Project/blob/main/Screenshot%202025-05-11%20155133.png))
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/sudesh-co/Customer-Analytics-and-Revenue-Forecasting-for-an-E-Commerce-Platform-EDA-Project/blob/main/Screenshot%202025-05-11%20155200.png))
+
+
+
+
 ## 🚀 Getting Started
 
 1. Clone the repo:
